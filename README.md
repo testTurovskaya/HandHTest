@@ -20,7 +20,7 @@
 * Важно МАКСИМАЛЬНО соблюсти нарисованный дизайнером интерфейс и реализовать все компоненты.
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 
-<a href="url"><img src="https://github.com/tunavla/HandHTest/blob/master/Screenshots/zeplin+simulator.png?raw=true" align="left" height="513" width="300" ></a>
+<a href="url"><img src="https://github.com/tunavla/HandHTest/blob/master/Screenshots/zeplin+simulator.png?raw=true" align="right" height="513" width="300" ></a>
 
 ### Дизайн
 На данном изображении показывается, насколько точным был реализован дизайн - поверх симулятора распологается дизайн интерфейса из zeplin.
