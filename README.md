@@ -17,11 +17,13 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 
 
-### Дизайн
+
 
 
 <a href="url"><img src="https://github.com/tunavla/HandHTest/blob/master/Screenshots/zeplin+simulator.png?raw=true" align="right" height="513" width="280" ></a>
-На и зображении справа показана точность реализации дизайна - поверх симулятора распологается дизайн интерфейса из zeplin.
+### Дизайн
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+На изображении справа показана точность реализации дизайна - поверх симулятора распологается дизайн интерфейса из zeplin.
 ### Тестовые данные
 при вводе этих данных будет успешный вход
 <a href="url"><img src="https://github.com/tunavla/HandHTest/blob/master/Screenshots/password.png?raw=true" align="left" height="207" width="252"  ></a>
