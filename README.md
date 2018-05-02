@@ -24,3 +24,14 @@
 
 ### Дизайн
 На данном изображении показывается, насколько точным был реализован дизайн - поверх симулятора распологается дизайн интерфейса из zeplin.
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+### Тестовые данные
+при вводе этих данных будет успешный вход
+
+email | пароль
+------| -------------
+hello@handh.ru| Qwerty123
+hr@handh.ru | Qwerty123
+123@hand.ru | Qwerty123
+qwerty@gmail.com | 123Qwerty
+admin@admin.ru | Admin1
