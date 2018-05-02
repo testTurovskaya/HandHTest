@@ -19,14 +19,6 @@
 
 * Важно МАКСИМАЛЬНО соблюсти нарисованный дизайнером интерфейс и реализовать все компоненты.
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-
-### Дизайн
-На данном изображении показывается, насколько точным был реализован дизайн - поверх симулятора распологается дизайн интерфейса из zeplin.
-<a href="url"><img src="https://github.com/tunavla/HandHTest/blob/master/Screenshots/IphoneX.png?raw=true" align="left" height="513" width="300" ></a>
-<a href="url"><img src="https://github.com/tunavla/HandHTest/blob/master/Screenshots/zeplin+simulator.png?raw=true" align="center" height="513" width="300" ></a>
-
-### Дизайн
-На данном изображении показывается, насколько точным был реализован дизайн - поверх симулятора распологается дизайн интерфейса из zeplin.
 ### Тестовые данные
 при вводе этих данных будет успешный вход
   
@@ -37,3 +29,14 @@ hr@handh.ru | Qwerty123
 123@hand.ru | Qwerty123
 qwerty@gmail.com | 123Qwerty
 admin@admin.ru | Admin1
+
+
+### Дизайн
+
+<a href="url"><img src="https://github.com/tunavla/HandHTest/blob/master/Screenshots/IphoneX.png?raw=true" align="left" height="513" width="300" ></a>
+<a href="url"><img src="https://github.com/tunavla/HandHTest/blob/master/Screenshots/zeplin+simulator.png?raw=true" align="right" height="513" width="300" ></a>
+&emsp;&emsp;&emsp;&emsp;&emsp;
+* Слева криншот экрана, как приложение выглядит на IphoneX
+* Справа изображено, насколько точным был реализован дизайн - поверх симулятора распологается дизайн интерфейса из zeplin.
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
