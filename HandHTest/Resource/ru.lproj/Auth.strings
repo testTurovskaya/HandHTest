@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "email"; ObjectID = "EYJ-Wo-Idh"; */
+"EYJ-Wo-Idh.text" = "Почта";
+
+/* Class = "UIButton"; normalTitle = "authorization"; ObjectID = "LuU-gn-phS"; */
+"LuU-gn-phS.normalTitle" = "Aвторизация";
+
+/* Class = "UIButton"; normalTitle = "login"; ObjectID = "UvU-G0-eEk"; */
+"UvU-G0-eEk.normalTitle" = "Войти";
+
+/* Class = "UITextField"; placeholder = "example@mail.com"; ObjectID = "e0R-rZ-fJT"; */
+"e0R-rZ-fJT.placeholder" = "example@mail.com";
+
+/* Class = "UILabel"; text = "password"; ObjectID = "gXL-B0-bio"; */
+"gXL-B0-bio.text" = "Пароль";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "mVS-AA-dRH"; */
+"mVS-AA-dRH.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "Create a new account"; ObjectID = "qYp-Sn-DXp"; */
+"qYp-Sn-DXp.normalTitle" = "У меня еще нет аккаунта. Создать.";
+
+/* Class = "UIButton"; normalTitle = "Forgot password?"; ObjectID = "wV5-Pf-y59"; */
+"wV5-Pf-y59.normalTitle" = "Забыли пароль?";

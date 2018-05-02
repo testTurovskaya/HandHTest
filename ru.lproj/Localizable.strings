@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  HandHTest
+
+  Created by Надежда Туровская on 29.04.2018.
+  Copyright © 2018 personal. All rights reserved.
+*/
+"authorization" = "Авторизация";
+"no internet connection" = "Нет подключения к интернету";
+"wrong email/password" = "неправильная почта или пароль";
+"we sent you a link to reset your password" = "Мы выслали ссылку для восстановления пароля";
+"login" = "Вход выполнен";
+"registration" = "Регистрация";
+
+"Kaliningrad" = "Калининград";
+"Cupertino" = "Купертино";
+"Saint Petersburg" = "Санкт-Петербург";
+"Moskva" = "Москва";
+"Saransk" = "Саранск";
