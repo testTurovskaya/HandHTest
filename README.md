@@ -1,11 +1,7 @@
 # HandHTest - тестовое задание [Heads and Hands](https://handh.ru)
 
-
-
-
-
+<a href="url"><img src="https://github.com/tunavla/HandHTest/blob/master/Screenshots/IphoneX.png?raw=true" align="left" height="513" width="300" ></a>
 ### Задание
-
 * Разработать экран авторизации, с максимально возможным функционалом, который, по вашему мнению, можно будет использовать в реальном приложении.
 
 * Рекомендуется использовать библиотеки: Alomofire, RxSwift
@@ -20,25 +16,12 @@
 * Важно МАКСИМАЛЬНО соблюсти нарисованный дизайнером интерфейс и реализовать все компоненты.
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 
-### Тестовые данные
-при вводе этих данных будет успешный вход
-  
-email | пароль
-------| ------
-hello@handh.ru| Qwerty123
-hr@handh.ru | Qwerty123
-123@hand.ru | Qwerty123
-qwerty@gmail.com | 123Qwerty
-admin@admin.ru | Admin1
-
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 
 ### Дизайн
 
-<a href="url"><img src="https://github.com/tunavla/HandHTest/blob/master/Screenshots/IphoneX.png?raw=true" align="left" height="513" width="300" ></a>
-<a href="url"><img src="https://github.com/tunavla/HandHTest/blob/master/Screenshots/zeplin+simulator.png?raw=true" align="right" height="513" width="280" ></a>
-&emsp;&emsp;&emsp;&emsp;&emsp;
-* Слева криншот экрана, как приложение выглядит на IphoneX
-* Справа изображено, насколько точным был реализован дизайн - поверх симулятора распологается дизайн интерфейса из zeplin.
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+<a href="url"><img src="https://github.com/tunavla/HandHTest/blob/master/Screenshots/zeplin+simulator.png?raw=true" align="right" height="513" width="280" ></a>
+На и зображении справа показана точность реализации дизайна - поверх симулятора распологается дизайн интерфейса из zeplin.
+### Тестовые данные
+при вводе этих данных будет успешный вход
+<a href="url"><img src="https://github.com/tunavla/HandHTest/blob/master/Screenshots/password.png?raw=true" align="left" height="207" width="252"  ></a>
