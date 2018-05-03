@@ -18,7 +18,8 @@
 
 <a href="url"><img src="https://github.com/tunavla/HandHTest/blob/master/Screenshots/zeplin+simulator.gif?raw=true" align="right" height="513" width="280" ></a>
 ### Дизайн
-На изображении справа показана точность реализации дизайна - поверх симулятора распологается дизайн интерфейса из zeplin.
+Точность реализации дизайна ->
+Поверх симулятора распологается дизайн интерфейса из zeplin
 ### Тестовые данные
 при вводе этих данных будет успешный вход
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
